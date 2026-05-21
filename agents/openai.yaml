@@ -1,0 +1,4 @@
+interface:
+  display_name: "小红书笔记改写"
+  short_description: "筛选 200 字以上笔记，提炼模板，联网拓展并倒序生成"
+  default_prompt: "使用 $xhs-note 处理这个小红书 Excel：筛选 200 字以上笔记，提炼标题/内容模板和选题方向，联网拓展后倒序套模板生成对比表；超过 10 条时第 4 步必须用 sub-agent 并行。"
