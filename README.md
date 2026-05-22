@@ -1,6 +1,6 @@
-# xhs-note
+# xhs-note-rewrite-skill
 
-小红书/XHS 笔记批量生成 skill。
+小红书/XHS 笔记批量改写生成 skill。
 
 ## 功能
 
